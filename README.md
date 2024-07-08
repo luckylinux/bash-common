@@ -1,0 +1,2 @@
+# bash-common
+bash-common
